@@ -6,9 +6,9 @@ color:
   saturation: 0.6853207305539399
   rhythmicContrast: 0.33527406328357756
   brandColors:
-    - '#E8E595'
-    - '#D0A825'
-    - '#40627C'
-    - '#26393D'
-    - '#FFFAE4'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: TC test
