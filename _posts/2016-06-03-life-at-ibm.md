@@ -1,17 +1,19 @@
 ---
 description: adadad
-dateModified: '2016-06-03T14:25:54.270Z'
-datePublished: '2016-06-03T14:26:01.939Z'
+dateModified: '2016-08-25T17:16:29.104Z'
+datePublished: '2016-08-25T17:16:29.610Z'
 title: Life at IBM
 author: []
-starred: false
 sourcePath: _posts/2016-06-03-life-at-ibm.md
+publisher: {}
+via: {}
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-<article style=""><h1>Life at IBM</h1><p>sdad</p></article>
+<article style=""><h1>Life at IBM</h1><p>Random text</p></article>
 
 adadad
